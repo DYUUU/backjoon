@@ -18,5 +18,14 @@
     <ClCompile Include="Hello World.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="We love kriii.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="고양이.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="개.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -140,6 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Hello World.c" />
+    <ClCompile Include="We love kriii.c" />
+    <ClCompile Include="개.c" />
+    <ClCompile Include="고양이.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
