@@ -1,0 +1,3 @@
+﻿  7.평균은 넘겠지.c
+D:\Dev\backjoon\단계별 문제 풀기\1차원 배열\7.평균은 넘겠지.c(9,27): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  1차원 배열.vcxproj -> D:\Dev\backjoon\단계별 문제 풀기\1차원 배열\Debug\1차원 배열.exe
