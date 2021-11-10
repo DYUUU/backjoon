@@ -21,5 +21,8 @@
     <ClCompile Include="2.셀프넘버.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="3.한수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

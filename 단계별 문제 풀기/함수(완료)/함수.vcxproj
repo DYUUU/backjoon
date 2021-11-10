@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="1.정수 n개의 합.c" />
     <ClCompile Include="2.셀프넘버.c" />
+    <ClCompile Include="3.한수.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
