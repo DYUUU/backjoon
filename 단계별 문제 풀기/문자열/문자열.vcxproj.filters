@@ -27,5 +27,8 @@
     <ClCompile Include="4.문자열 반복.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5.단어공부.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
