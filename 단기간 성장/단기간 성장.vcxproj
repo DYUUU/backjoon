@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="가운데를 말해요_선택정렬.c" />
+    <ClCompile Include="가운데를 말해요_퀵정렬.c" />
     <ClCompile Include="평범한 배낭.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
