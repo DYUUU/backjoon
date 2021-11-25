@@ -36,5 +36,8 @@
     <ClCompile Include="7.상수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="8.다이얼.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
