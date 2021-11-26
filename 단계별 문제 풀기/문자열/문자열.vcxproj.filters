@@ -39,5 +39,8 @@
     <ClCompile Include="8.다이얼.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9.크로아티아 알파벳.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

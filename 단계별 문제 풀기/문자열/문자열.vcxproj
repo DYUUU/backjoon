@@ -147,6 +147,7 @@
     <ClCompile Include="6.단어의 개수.c" />
     <ClCompile Include="7.상수.c" />
     <ClCompile Include="8.다이얼.c" />
+    <ClCompile Include="9.크로아티아 알파벳.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
