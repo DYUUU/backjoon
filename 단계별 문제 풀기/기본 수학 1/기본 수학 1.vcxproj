@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fc14187b-e415-4526-b33e-064fb2d46dc9}</ProjectGuid>
-    <RootNamespace>문자열</RootNamespace>
+    <ProjectGuid>{4a21367e-efb5-4026-ad30-150933978c7f}</ProjectGuid>
+    <RootNamespace>기본수학1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,16 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.아스키 코드.c" />
-    <ClCompile Include="10. 그룹 단어 체커.c" />
-    <ClCompile Include="2.숫자의 합.c" />
-    <ClCompile Include="3.알파벳 찾기.c" />
-    <ClCompile Include="4.문자열 반복.c" />
-    <ClCompile Include="5.단어공부.c" />
-    <ClCompile Include="6.단어의 개수.c" />
-    <ClCompile Include="7.상수.c" />
-    <ClCompile Include="8.다이얼.c" />
-    <ClCompile Include="9.크로아티아 알파벳.c" />
+    <ClCompile Include="1. 손익 분기점.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

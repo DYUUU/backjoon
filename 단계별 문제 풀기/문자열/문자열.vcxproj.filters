@@ -42,5 +42,8 @@
     <ClCompile Include="9.크로아티아 알파벳.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="10. 그룹 단어 체커.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
